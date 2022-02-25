@@ -1,0 +1,21 @@
+{
+  "name": "express-formidable-typescript",
+  "version": "1.0.0",
+  "main": "./lib/middleware.js",
+  "license": "MIT",
+  "dependencies": {
+    "formidable": "^2.0.1"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "formidable",
+    "typescript"
+  ],
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/formidable": "^2.0.4",
+    "express": "^4.17.3",
+    "typescript": "^4.5.5"
+  }
+}
