@@ -1,6 +1,6 @@
 {
   "name": "express-formidable-typescript",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./dist/middleware.js",
   "types": "./lib/middleware.ts",
   "license": "MIT",
